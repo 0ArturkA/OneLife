@@ -1,16 +1,16 @@
-# One Hour One Life+ [![Github All Releases](https://img.shields.io/github/downloads/Awbz/OneLife/total.svg?style=plastic)](https://github.com/Awbz/OneLife/releases/latest) [![GitHub release](https://img.shields.io/github/release/Awbz/OneLife.svg?style=plastic)](https://github.com/Awbz/OneLife/releases/latest) [![Github Releases](https://img.shields.io/github/downloads/Awbz/OneLife/latest/total.svg?style=plastic)](https://github.com/Awbz/OneLife/releases/latest) [![GitHub Release Date](https://img.shields.io/github/release-date/Awbz/OneLife.svg?style=plastic)](https://github.com/Awbz/OneLife/releases/latest)
+# One Hour One Life++ [![Github All Releases](https://img.shields.io/github/downloads/0ArturkA/OneLife/total.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest) [![GitHub release](https://img.shields.io/github/release/0ArturkA/OneLife.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest) [![Github Releases](https://img.shields.io/github/downloads/0ArturkA/OneLife/latest/total.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest) [![GitHub Release Date](https://img.shields.io/github/release-date/0ArturkA/OneLife.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest)
 
 A lightly modified client for [One Hour One Life](http://onehouronelife.com), a cross-platform and open-source multiplayer survival game of parenting and civilization building by [Jason Rohrer](http://hcsoftware.sf.net/jason-rohrer).
 
 <p align="center">
     <table>
         <tr>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#requirements">Requirements</a></td>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#installation">Installation</a></td>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#usage">Usage</a></td>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#added-features">Added Features</a></td>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#credits">Credits</a></td>
-            <td width="16%" align="center"><a href="https://github.com/Awbz/OneLife#license">License</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#requirements">Requirements</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#installation">Installation</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#usage">Usage</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#added-features">Added Features</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#credits">Credits</a></td>
+            <td width="16%" align="center"><a href="https://github.com/0ArturkA/OneLife#license">License</a></td>
         </tr>
     </table>
 </p>
@@ -32,7 +32,7 @@ A lightly modified client for [One Hour One Life](http://onehouronelife.com), a 
    * Pre-compiled releases of just the modified client are available for Windows, Linux and macOS 10.5+.
 
 # Installation
-Download the [latest release](https://github.com/Awbz/OneLife/releases/latest) for your OS and extract all 5 files from the zip file into the folder where your game is installed.  There should be 1 executable and 4 text documents.  That's it!
+Download the [latest release](https://github.com/0ArturkA/OneLife/releases/latest) for your OS and extract all 5 files from the zip file into the folder where your game is installed.  There should be 1 executable and 4 text documents.  That's it!
 
 Now just launch the game with OneLife+.exe for Windows, OneLife_v###+.app on macOS (where ### is the client version), or OneLife+ on Linux.
 
