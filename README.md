@@ -15,29 +15,17 @@ A lightly modified client for [One Hour One Life](http://onehouronelife.com), a 
     </table>
 </p>
 
-<p align="center">
-    <img align="left" width="15%" src="http://onehouronelife.com/portraitLeft.jpg">
-    <img width="50%" src="http://onehouronelife.com/lifeLine.jpg">
-    <img width="15%" align="right" src="http://onehouronelife.com/portraitRight.jpg">
-    <br />
-    <img width="65%" src="http://onehouronelife.com/logo558x305_border.jpg">
-</p>
-
 # Requirements
    * Requires the base game to already be installed.
       - Grab it from the download link provided when you [created your official lifetime account](https://sites.fastspring.com/jasonrohrer/instant/onehouronelife?referrer=), or from [Steam](https://store.steampowered.com/app/595690/One_Hour_One_Life/).
-   * The full client, modded client, editor, and server are currently only provided for Windows in the "win_full" package.
-      - **NOTE**: The "win_full" package does **not** automatically grant you access to play on the official servers!  However, you can use this package to host your own private server(s) directly on Windows.
-      - Use **runServer.bat** in the server folder to create the necessary symlinks & launch the server.
-   * Pre-compiled releases of just the modified client are available for Windows, Linux and macOS 10.5+.
+   * Pre-compiled releases of just the modified client are available for Windows only 🤷‍.
 
 # Installation
-Download the [latest release](https://github.com/0ArturkA/OneLife/releases/latest) for your OS and extract all 5 files from the zip file into the folder where your game is installed.  There should be 1 executable and 4 text documents.  That's it!
+Download the [latest release](https://github.com/0ArturkA/OneLife/releases/latest) for ~~your OS~~ Windows and extract all 5 files from the zip file into the folder where your game is installed. There should be 1 executable and 4 text documents. That's it!
 
-Now just launch the game with OneLife+.exe for Windows, OneLife_v###+.app on macOS (where ### is the client version), or OneLife+ on Linux.
+Now just launch the game with OneLife++.exe for Windows.
 
-
-Steam Mod Installation Guide by [KrissJin](https://www.twitch.tv/krissjin): <a href="https://youtu.be/H1u8lD0F0-I">Click</a>
+Steam Mod Installation Guide by [KrissJin](https://www.twitch.tv/krissjin): <a href="https://youtu.be/H1u8lD0F0-I">Click</a> (everything is the same as for OneLife+)
 
 # Usage
 Keybind | Description
@@ -106,7 +94,7 @@ Keybind | Description
 
 * **Easy Chat**
    - Auto-focuses the chat box when you start typing.  Never "lose" your chat by forgetting to press Enter first!
-   - Includes keybinds for triggering Emotes or Sudden Infant Death commands.
+   - Includes keybinds for triggering Emotes or Instant death.
 
 # Credits
 Thanks to [Joriom](https://onehouronelife.com/forums/profile.php?id=607) for the [detailed guides](https://onehouronelife.com/forums/viewtopic.php?id=1438), [Bimble](https://onehouronelife.com/forums/profile.php?id=682) for the [VirtualBox image](https://onehouronelife.com/forums/viewtopic.php?id=498), [Drakulon](https://onehouronelife.com/forums/profile.php?id=1165) for the [original FOV mod concept](https://onehouronelife.com/forums/viewtopic.php?id=1422), and [UncleGus](https://github.com/UncleGus) for the [original lifespan concept](https://github.com/UncleGus/OneLife/tree/lifespan).
