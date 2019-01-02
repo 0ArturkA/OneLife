@@ -1,6 +1,6 @@
 # One Hour One Life++ [![GitHub release](https://img.shields.io/github/release/0ArturkA/OneLife.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest) [![GitHub Release Date](https://img.shields.io/github/release-date/0ArturkA/OneLife.svg?style=plastic)](https://github.com/0ArturkA/OneLife/releases/latest)
 
-A lightly modified client for [One Hour One Life](http://onehouronelife.com), a cross-platform and open-source multiplayer survival game of parenting and civilization building by [Jason Rohrer](http://hcsoftware.sf.net/jason-rohrer).
+A lightly modified client (with cheat functionality) for [One Hour One Life](http://onehouronelife.com), a cross-platform and open-source multiplayer survival game of parenting and civilization building by [Jason Rohrer](http://hcsoftware.sf.net/jason-rohrer).
 
 <p align="center">
     <table>
