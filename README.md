@@ -58,6 +58,15 @@ Keybind | Description
     <img alt="4k - 3x Zoom" width="20%" src="https://user-images.githubusercontent.com/24634429/45483667-7971fb80-b706-11e8-9246-720bc9f15203.png">
 </p>
 
+* **Moded sprites**
+    - Makes it easy to notice rare resources
+
+<p align="center">
+    <img alt="Gold Vein" width="30%" src="https://user-images.githubusercontent.com/14136326/50725944-ff331000-1116-11e9-92c9-2fd99cab6212.png">
+    <img alt="Iron Vein" width="30%" src="https://user-images.githubusercontent.com/14136326/50725945-ff331000-1116-11e9-874d-d0c0fe7ca771.png">
+    <img alt="Darj Nosaj" width="30%" src="https://user-images.githubusercontent.com/14136326/50725978-66e95b00-1117-11e9-9d90-63923e54fe95.png">
+</p>
+
 * **Zoom-IN Magnifier**
 
    - Toggle a small zoomed-in magnifier, borrowed from the game's Editor.  Great for seeing tiny objects wherever you move your mouse!
