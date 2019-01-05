@@ -59,7 +59,7 @@ Keybind | Description
 </p>
 
 * **Moded sprites**
-    - Makes it easy to notice rare resources
+    - Makes it easy to notice rare resources. (Need to separately download the archive with sprites)
 
 <p align="center">
     <img alt="Gold Vein" width="30%" src="https://user-images.githubusercontent.com/14136326/50725944-ff331000-1116-11e9-92c9-2fd99cab6212.png">
